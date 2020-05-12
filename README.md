@@ -1,2 +1,1 @@
-# springboot-zuul
-init
+# springboot-admin
